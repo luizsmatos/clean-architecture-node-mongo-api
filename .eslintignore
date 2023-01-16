@@ -1,2 +1,5 @@
-node_modules
+@types
 dist
+node_modules
+/*.js
+/*.ts
